@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![@boos's Holopin board](https://holopin.io/api/user/board?user=boos)](https://holopin.io/@boos)
+
+- 🔭 I’m currently working on REST APIs in ASP.NET Core
+- 🌱 I’m currently learning Unity's Netcode for GameObjects
+- 👯 I’m looking to collaborate on Unity games and .NET things
+
 <!--
 **PeterBoos/PeterBoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
